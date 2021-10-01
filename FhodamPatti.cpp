@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout << "FhodamPatii macha rhe ho?";
+cout << "FhodamPatti macha rhe ho?";
+cout << "Hmmm yupp!!";
 return 0;
 }
