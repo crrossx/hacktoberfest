@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout << "Chabii kahan dale ho";
+cout << "Chaabii kahan dale ho";
+cout <<"Keystand pe tangi hui hai :))";
 return 0;
 }
