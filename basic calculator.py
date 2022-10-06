@@ -1,3 +1,4 @@
+#C/C++ sucks
 def calculate(s:str) ->str:
         res = 0
         sign = 1
