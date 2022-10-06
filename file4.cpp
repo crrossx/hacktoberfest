@@ -6,6 +6,8 @@ cout <<"Keystand pe tangi hui hai :))";
 cout<<"Dhyaan se dekho chaabi tumhare pass hi hai....:)";
 cout<<"he he...";x
   cout<<"aur fir khol liya lock chaabi se."
- cout<<"han  
+ cout<<"han"
+   cout<<"nahi"
+  
 return 0;
 }
