@@ -4,5 +4,5 @@ int main(){
 cout << "FhodamPatti macha rhe ho?";
 cout << "Hmmm yupp!!";
   cout<<"Lol....!"
-return 0;
+return 1;
 }
