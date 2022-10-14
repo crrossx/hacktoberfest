@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-
+#include<iu>
 using namespace std;
 
 vector<vector<int>> generate(int numRows) {
