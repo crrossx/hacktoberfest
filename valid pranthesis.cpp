@@ -11,8 +11,8 @@ bool isValid(string s) {
 		if(it == '{' || it == '(' || it == '[')
 			st.push(it);
 		else {
-			if(st.empty())
-				return false;
+			if(st.empty()){
+				return false;}
 
 			char p = st.top();
 			st.pop();
