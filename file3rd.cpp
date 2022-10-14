@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
 cout << 10*9;
-return 0;
+return 1;
 }
